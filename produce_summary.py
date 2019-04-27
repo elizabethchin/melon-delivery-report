@@ -1,7 +1,7 @@
 
 
 def produce_summary(day_number, file):
-        """Creates report when given day and file"""
+        """Creates report when given a day and file"""
 
         print("Day", day_number)
         the_file = open(file)
